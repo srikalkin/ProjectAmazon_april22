@@ -12,6 +12,9 @@ public class CourseDetails {
 	private void seleniumCourse() {
 		System.out.println("Selenium Course");
 	}
+	private void oracleCourse() {
+		System.out.println("Oracle Course");
+	}
 	//Main method creation
 	public static void main(String[] args) {	
 		//object creation
@@ -22,5 +25,6 @@ public class CourseDetails {
 		c.javaCourse();
 		c.pythonCourse();
 		c.seleniumCourse();
+		c.oracleCourse();
 	}
 }
