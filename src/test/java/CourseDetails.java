@@ -19,6 +19,10 @@ public class CourseDetails {
 		// TODO Auto-generated method stub
         System.out.println("course");
 	}
+	private void course2() {
+		// TODO Auto-generated method stub
+        System.out.println("course2");
+	}
 	//Main method creation
 	public static void main(String[] args) {	
 		//object creation
@@ -31,5 +35,6 @@ public class CourseDetails {
 		c.seleniumCourse();
 		c.oracleCourse();
 		c.course();
+		c.course2();
 	}
 }
