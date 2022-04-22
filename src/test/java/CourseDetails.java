@@ -15,7 +15,7 @@ public class CourseDetails {
 	private void oracleCourse() {
 		System.out.println("Oracle Course");
 	}
-	private void course() {
+	private void course1() {
 		// TODO Auto-generated method stub
         System.out.println("course");
 	}
@@ -34,7 +34,7 @@ public class CourseDetails {
 		c.pythonCourse();
 		c.seleniumCourse();
 		c.oracleCourse();
-		c.course();
+		c.course1();
 		c.course2();
 	}
 }
